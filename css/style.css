@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-card{
+    margin-top: 24px;
+    background-color: lightslategray;
+}
+main{
+    background-color: lightslategray;
+    padding: 30px;
+}
+.intestazione{
+    background-color: aquamarine;
+    padding: 25px;
+}
+h1{
+    font-family: 'Alkatra', cursive;
+}
